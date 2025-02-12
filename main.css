@@ -1,0 +1,32 @@
+*{margin: 0;
+ padding: 0;
+box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.main_body{
+    width: 100vw;
+    height:100vh;
+    background-color: bisque;
+    display: grid;
+    place-items:center;
+}
+
+.center_div{
+    width: 30rem;
+    height:10rem;
+    border: 2px solid red;
+    border-radius: 50%;
+}
+
+.center_div::before{
+    content: '';
+    top
+}
+
+.circle{
+   
+}
